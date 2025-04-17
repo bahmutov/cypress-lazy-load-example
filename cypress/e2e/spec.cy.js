@@ -2,6 +2,6 @@
 
 describe('OnBuy', () => {
   it('sells Tea products', function () {
-    cy.visit('/')
+    cy.visit('/gb/essentials/')
   })
 })
